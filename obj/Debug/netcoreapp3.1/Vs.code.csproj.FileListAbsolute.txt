@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Vs.code\bin\Debug\netcoreapp3.1\Vs.code.exe
+c:\Users\User\Documents\Vs.code\bin\Debug\netcoreapp3.1\Vs.code.deps.json
+c:\Users\User\Documents\Vs.code\bin\Debug\netcoreapp3.1\Vs.code.runtimeconfig.json
+c:\Users\User\Documents\Vs.code\bin\Debug\netcoreapp3.1\Vs.code.runtimeconfig.dev.json
+C:\Users\User\Documents\Vs.code\bin\Debug\netcoreapp3.1\Vs.code.dll
+C:\Users\User\Documents\Vs.code\bin\Debug\netcoreapp3.1\Vs.code.pdb
+C:\Users\User\Documents\Vs.code\obj\Debug\netcoreapp3.1\Vs.code.csprojAssemblyReference.cache
+C:\Users\User\Documents\Vs.code\obj\Debug\netcoreapp3.1\Vs.code.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Vs.code\obj\Debug\netcoreapp3.1\Vs.code.AssemblyInfo.cs
+C:\Users\User\Documents\Vs.code\obj\Debug\netcoreapp3.1\Vs.code.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Vs.code\obj\Debug\netcoreapp3.1\Vs.code.dll
+C:\Users\User\Documents\Vs.code\obj\Debug\netcoreapp3.1\Vs.code.pdb
+c:\Users\User\Documents\Vs.code\obj\Debug\netcoreapp3.1\Vs.code.genruntimeconfig.cache
